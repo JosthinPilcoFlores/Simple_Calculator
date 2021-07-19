@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btnAdd">+</string>
+    <string name="btnSub">-</string>
+    <string name="btnMul">*</string>
+    <string name="btn10">.</string>
+    <string name="btn0">0</string>
+    <string name="btnC">C</string>
+    <string name="btnDiv">/</string>
+    <string name="btnEql">=</string>
+    <string name="textView">Number</string>
+    <string name="btn1Text">%1$s%2$s</string>
+    <string name="btn2Text">%1$s%2$s</string>
+    <string name="btn3Text">%1$s%2$s</string>
+    <string name="btn4Text">%1$s%2$s</string>
+    <string name="btn5Text">%1$s%2$s</string>
+    <string name="btn6Text">%1$s%2$s</string>
+    <string name="btn7Text">%1$s%2$s</string>
+    <string name="btn8Text">%1$s%2$s</string>
+    <string name="btn9Text">%1$s%2$s</string>
+    <string name="btn0Text">%1$s%2$s</string>
+    <string name="addText">%1$f+%2$f </string>
+    <string name="subText">%1$f-%2$f </string>
+    <string name="mulText">%1$f*%2$f </string>
+    <string name="divText">%1$f/%2$f </string>
+    <string name="btn10Text">%1$s%2$s</string>
+</resources>
